@@ -5,9 +5,7 @@ permalink: /contact/
 locations: 1.247600,103.8240000
 zoom: 16
 ---
-{% if page.locations %}
-<img style="float: right;" src="http://maps.googleapis.com/maps/api/staticmap?{% for location in page.locations %}{% if forloop.first %}center={{location}}&markers=color:blue%7C{{location}}{% else %}&markers=color:blue%7C{{location}}{% endif %}{% endfor %}&zoom={% if page.zoom %}{{page.zoom}}{% else %}13{% endif %}&size=200x200&scale=2&sensor=false&visual_refresh=true" alt="">
-{% endif %}
+<iframe align="right" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.8733998807734!2d103.8225216388583!3d1.2470023407464246!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da1ea97be51405%3A0x406386128c32981e!2s110+Tanjong+Beach+Walk%2C+098943!5e0!3m2!1sen!2ssg!4v1461390805259" width="400" height="400" frameborder="0" style="border:0" allowfullscreen></iframe>
 
 Where
 --
@@ -21,4 +19,4 @@ When
 - Appendix beginner training _almost_ every saturday from 3.30pm onwards
 - Appendix regular training _almost_ every saturday from 2.30pm onwards
 
-For more exact details, check our <a href="https://telegram.me/{{ site.telegram }}"><i class="svg-icon telegram"></i>Telegram</a> channel or our <a href="https://www.facebook.com/groups/{{ site.facebook }}"><i class="svg-icon facebook"></i>Facebook</a> page
+For more exact details, check our <a href="https://telegram.me/{{ site.telegram }}">Telegram</a> channel or our <a href="https://www.facebook.com/groups/{{ site.facebook }}">Facebook</a> page
