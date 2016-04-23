@@ -9,6 +9,8 @@
 title: Singapore Beach Ultimate
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
+    Webiste of Singapore Beach Ultimate, regular pick-up games information,
+    team training and information abotu hosted beach ultimate tournaments.
 baseurl: "" # the subpath of your site, e.g. /blog
 # url: "http://sgbu.github.io" # the base hostname & protocol for your site
 url: "http://localhost:3000"
