@@ -2,9 +2,22 @@
 layout: default
 ---
 <article class="post">
+    {% if page.photo %}
+        <div class="team-photo" style="float : center">
+            <a href="{{ page.photo | prepend: "../../" }}"><img src="{{ page.photo | prepend: "../../" }}" width="100%"></a>
+        </div>
+    {% endif %}
+    <ul>
+    {% if page.tournament_page %}
+        <li><b>Tournament site:</b> <a href={{ page.tournament_page }}>{{ page.tournament_page }}</a></li>
+    {% endif%}
+    {% if page.date %}
+        <li><b>Dates:</b> {{ page.date }}</li>
+    {% endif%}
+    </ul>
 
-    <div class="post-content">
-        {{ content }}
-    </div>
+  <div class="post-content">
+    {{ content }}
+  </div>
 
 </article>
