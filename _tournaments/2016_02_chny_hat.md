@@ -2,5 +2,6 @@
 layout: tournament
 permalink: /team/chny_hat_2016/
 title: "Chinese New Year Hat 2016"
-date: "02/16"
+date: "06/02/16"
+photo: "assets/chinese_new_year_hat_2016.jpg"
 ---
