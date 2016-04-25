@@ -2,6 +2,22 @@
 layout: default
 ---
 <article class="post">
+    {% if page.photo %}
+        <div class="team-photo" style="float : right">
+            <a href="{{ page.photo | prepend: "../../" }}"><img src="{{ page.photo | prepend: "../../" }}" width="300"></a>
+        </div>
+    {% endif %}
+    <ul>
+    {% if page.tournament_page %}
+        <li><b>Tournament site:</b> <a href={{ page.tournament_page }}>{{ page.tournament_page }}</a></li>
+    {% endif%}
+    {% if page.date %}
+        <li><b>Dates:</b> {{ page.date }}</li>
+    {% endif%}
+    {% if page.place %}
+        <li><b>Final standing:</b> {{ page.place }}</li>
+    {% endif%}
+    </ul>
 
   <div class="post-content">
     {{ content }}
