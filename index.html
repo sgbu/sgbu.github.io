@@ -2,5 +2,9 @@
 layout: default
 ---
 
-  <h2>Main Page</h2>
-  Main content goes here.
+    <img src="{{ "/assets/header.jpg" | prepend: site.url }}" width="100%">
+    <h2>Where to play</h2>
+    <ul>
+        <li>Regular pickups at <a href={{ "/contact/" | prepend: site.baseurl }}>Palawan beach</a></li>
+        <li><a href={{ "/tournaments/" | prepend: site.baseurl }}>Tournaments</a> organized by SGBU</li>
+    </ul>

@@ -6,7 +6,7 @@ locations: 1.247600,103.8240000
 zoom: 16
 ---
 
-Beach pick-up
+Beach pick-up & training
 ===
 
 Where
