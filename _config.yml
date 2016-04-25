@@ -27,3 +27,7 @@ markdown: kramdown
 
 #
 google_site_verification : neaYSBljhbl-tyatpHNZcgJllcrdvyVNQn7DUKvxFNg
+
+#
+gems:
+  - jekyll-sitemap
