@@ -1,4 +1,4 @@
-# [sgbu.github.io](sgbu.github.io)
+# [sgbu.github.io](https://sgbu.github.io)
 Singapore Beach Ultimate Website source
 
 Credits
