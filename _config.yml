@@ -29,5 +29,8 @@ markdown: kramdown
 google_site_verification : neaYSBljhbl-tyatpHNZcgJllcrdvyVNQn7DUKvxFNg
 
 #
+keywords: Singapore,beach,ultimate,frisbee,pick-up,Appendix
+
+#
 gems:
   - jekyll-sitemap
