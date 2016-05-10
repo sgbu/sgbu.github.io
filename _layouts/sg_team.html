@@ -3,9 +3,11 @@ layout: default
 ---
 <article class="post">
     {% if page.photo %}
-        <div class="team-photo" style="float : center">
-            <a href="{{ page.photo | prepend: "../../" }}"><img src="{{ page.photo | prepend: "../../" }}" width="100%"></a>
-        </div>
+        {% if page.photo != blank %}
+            <div class="team-photo" style="float : center">
+                <a href="{{ page.photo | prepend: "../../" }}"><img src="{{ page.photo | prepend: "../../" }}" width="100%"></a>
+            </div>
+        {% endif %}        
     {% endif %}
     <ul>
     {% if page.tournament_page %}
