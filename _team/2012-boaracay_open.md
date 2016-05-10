@@ -10,16 +10,18 @@ photo: ""
 
 # Roster
 
-1. #3 Huifang Gao (F)
-2. #6 Kee Khoon Neo (M)
-3. #7 Bernhard Siebenhofer(M)
-4. #8 Petri Mäkinen (M)
-5. #18 Kensuke Nakatsu (M)
-6. #22 Pairaow Svensson (F)
-7. #25 Kevin Doxzen (M)
-8. #33 Dada Gee (F)
-9. #55 Nee	Pawinee (F)
-10. #60 Abhinav Shankar (M)
-11. #66 Wei Long Lim (M)
-12. #67 Wolfgang Maehr (M), Captain
-13. #88 Noot Khemapatapun (F)
+* Women
+	1. Dada Gee #33
+	2. Huifang Gao #3
+	3. Nee Pawinee #55
+	4. Pairaow Svensson #22
+* Men
+	1. Abhinav Shankar #60
+	2. Bernhard Siebenhofer #7
+	3. Kee Khoon Neo #6
+	4. Kensuke Nakatsu #18
+	5. Kevin Doxzen #25
+	6. Noot Khemapatapun #88
+	7. Petri Mäkinen #8
+	8. Wei Long Lim #66
+	9. Wolfgang Maehr #67 (C)
