@@ -4,7 +4,7 @@ team: Appendix
 permalink: /team/boracay2016/
 title: "Boracay Open 2016"
 place: "6th out of 8, Division C"
-date: "15/04/16 - 17/04/16"
+date: "2016-04-15 to 17"
 tournament_page: "https://www.fb.me/boracayopen2015/"
 photo: "assets/appendix_boracay_2016.jpg"
 ---
