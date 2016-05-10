@@ -1,5 +1,6 @@
 ---
 layout: team
+team: Appendix
 permalink: /team/boracay2012/
 title: "Boracay Open 2012"
 place: "3rd pool B (11 of 24)"
