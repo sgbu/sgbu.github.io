@@ -7,3 +7,19 @@ date: "15/04/16 - 17/04/16"
 tournament_page: "https://www.fb.me/boracayopen2015/"
 photo: "assets/appendix_boracay_2016.jpg"
 ---
+
+# Roster
+
+* Women
+	1. Joyce Naomi Ho #27
+	2. Kaye Rey #11
+	3. Kyna Leong #29
+	4. Wei Lynn Tan #21
+* Men
+	1. Alex Lim #81
+	2. Ahmad Choki #2
+	3. Joshua Ringer #8
+	4. Matias Autio #13
+	5. Pavel Dmitriev #34
+	6. Wei Long Lim #55 (C)
+	7. Zach Johnson #26
