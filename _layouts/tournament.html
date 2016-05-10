@@ -2,7 +2,7 @@
 layout: default
 ---
 <article class="post">
-    {% if page.photo %}
+    {% if page.photo and page.photo != blank  and page.photo != "" %}
         <div class="team-photo" style="float : center">
             <a href="{{ page.photo | prepend: "../../" }}"><img src="{{ page.photo | prepend: "../../" }}" width="100%"></a>
         </div>
