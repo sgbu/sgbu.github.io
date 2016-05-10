@@ -3,7 +3,7 @@ layout: team
 team: Appendix
 permalink: /team/boracay2016/
 title: "Boracay Open 2016"
-place: "6th out of 8, Division C"
+place: "6th pool C (22 of 32)"
 date: "2016-04"
 start_date: "2016-04-15"
 end_date: "2016-04-17"
