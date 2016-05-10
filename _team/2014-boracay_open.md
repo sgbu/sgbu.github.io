@@ -1,5 +1,6 @@
 ---
 layout: team
+team: Appendix
 permalink: /team/boracay2014/
 title: "Boracay Open 2014"
 place: ""
