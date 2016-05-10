@@ -4,8 +4,7 @@ title:  "Teams"
 permalink: /team/
 ---
 
-  <h2>Appendix Ultimate</h2>
-  <a href="http://ultimatecentral.com/t/appendix-ultimate" traget="_blank" title="Appendix on Ultimate Central">Appendix Ultimate on Ultimate Central<a>
+  <h2>Appendix Ultimate (<a href="http://ultimatecentral.com/t/appendix-ultimate" traget="_blank" title="Appendix on Ultimate Central">Ultimate Central<a>)</h2>
   <table>
       <tr>
           <th>Date</th>      
