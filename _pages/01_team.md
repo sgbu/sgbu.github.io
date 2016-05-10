@@ -37,6 +37,7 @@ permalink: /team/
           <tr>
               <td>{{page.date}}</td>
               <td><a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a></td>
+              <td>{{page.team}}</td>
               <td>{{page.place}}</td>
           </tr>
           {% endif %}
