@@ -6,13 +6,6 @@ permalink: /team/
 
 # National Teams
 
-## Singapore WCBU 2015 Open 
-
-* **Year:** 2014&mdash;2015
-* **Division:** Open
-* **Goal:** Participate at [WCBU 2015](http://www.wcbu2015.org) in Dubai
-* **Link:** [Ultimate Central](http://ultimatecentral.com/t/singapore-open-wcbu2015)
-
 <table>
     <tr><th>Date</th><th>Tournament</th><th>Division</th><th>Result</th><th>Spirit</th></tr>
     {% for page in site.pages reversed %}
@@ -27,6 +20,13 @@ permalink: /team/
           {% endif %}
     {% endfor %}
 </table>
+
+## Singapore WCBU 2015 Open 
+
+* **Year:** 2014&mdash;2015
+* **Division:** Open
+* **Goal:** Participate at [WCBU 2015](http://www.wcbu2015.org) in Dubai
+* **Link:** [Ultimate Central](http://ultimatecentral.com/t/singapore-open-wcbu2015)
 
 # Club Teams
 
