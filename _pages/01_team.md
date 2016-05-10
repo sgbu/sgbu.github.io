@@ -4,21 +4,68 @@ title:  "Teams"
 permalink: /team/
 ---
 
-  <h2>Appendix Ultimate (<a href="http://ultimatecentral.com/t/appendix-ultimate" traget="_blank" title="Appendix on Ultimate Central">Ultimate Central</a>)</h2>
-  <table>
-      <tr>
-          <th>Date</th>      
-          <th>Tournament</th>
-          <th>Place</th>
-      </tr>
-      {% for page in site.pages reversed %}
-            {% if page.layout == "team" %}
-            <tr>
-                <td>{{page.date}}</td>
-                <td><a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a></td>
-                <td>{{page.place}}</td>
-            </tr>
-            {% endif %}
-      {% endfor %}
+# National Teams
 
-  </table>
+## Singapore WCBU 2015 Open 
+
+* **Year:** 2014&mdash;2015
+* **Division:** Open
+* **Goal:** Participate at [WCBU 2015](http://www.wcbu2015.org) in Dubai
+* **Link:** [Ultimate Central](http://ultimatecentral.com/t/singapore-open-wcbu2015)
+
+<table>
+    <tr><th>Date</th><th>Tournament</th><th>Result</th><th>Spirit</th></tr>
+    {% for page in site.pages reversed %}
+          {% if page.layout == "team" %}
+          <tr>
+              <td>{{page.date}}</td>
+              <td><a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a></td>
+              <td>{{page.place}}</td>
+              <td>{{page.spirit}}</td>
+          </tr>
+          {% endif %}
+    {% endfor %}
+</table>
+
+# Club Teams
+
+## Appendix Ultimate
+
+* **Established:** 2012
+* **Division:** Mixed
+* **Goal:** Grow Beach Ultimate and its players.
+* **Ethos:** [Appendix Ethos](https://docs.google.com/document/d/1JjIVbyXe3vasj9OZ3f3Z13G9qWLu3WuIbIyMODaf8Qw/edit?usp=sharing)
+* **Link:** [Ultimate Central](http://ultimatecentral.com/t/appendix-ultimate)
+
+<table>
+    <tr><th>Date</th><th>Tournament</th><th>Result</th></tr>
+    {% for page in site.pages reversed %}
+          {% if page.layout == "team" %}
+          <tr>
+              <td>{{page.date}}</td>
+              <td><a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a></td>
+              <td>{{page.place}}</td>
+          </tr>
+          {% endif %}
+    {% endfor %}
+</table>
+
+## Skettos
+
+* **Established:** 2015
+* **Division:** Mixed
+* **Goal:** Win [Chennai Heat 2015](https://www.facebook.com/events/462232350614494/)
+
+<table>
+    <tr><th>Date</th><th>Tournament</th><th>Result</th></tr>
+    {% for page in site.pages reversed %}
+          {% if page.layout == "team" %}
+          <tr>
+              <td>{{page.date}}</td>
+              <td><a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a></td>
+              <td>{{page.place}}</td>
+          </tr>
+          {% endif %}
+    {% endfor %}
+</table>
+
