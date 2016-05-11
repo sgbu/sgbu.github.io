@@ -1,7 +1,7 @@
 ---
 layout: page
 title:  "Teams"
-permalink: /team/
+permalink: /teams/
 ---
 
 # National Teams
