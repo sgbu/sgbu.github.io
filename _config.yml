@@ -12,7 +12,7 @@ description: > # this means to ignore newlines until "baseurl:"
     Website of Singapore Beach Ultimate, regular pick-up games information,
     team training and information abotu hosted beach ultimate tournaments.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://sgbu.org" # the base hostname & protocol for your site
+url: "http://sgbu.org" # the base hostname & protocol for your site
 
 include: ["_pages", "_team", "_tournaments"]
 
