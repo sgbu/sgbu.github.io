@@ -7,3 +7,4 @@ Credits
 - [startjekyll](https://github.com/taniarascia/startjekyll/)
 - [Free-Social-Icons](https://github.com/neilorangepeel/Free-Social-Icons)
 - [Telegram SVG icon](https://commons.wikimedia.org/wiki/File:Telegram_logo.svg)
+- [Whatsapp SVH icon](https://en.wikipedia.org/wiki/File:WhatsApp.svg)
