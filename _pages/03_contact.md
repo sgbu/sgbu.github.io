@@ -24,7 +24,7 @@ When
 - Appendix beginner training _almost_ every saturday from 3.30pm onwards
 - Appendix regular training _almost_ every saturday from 2.30pm onwards
 
-For more exact details, check our <a href="https://telegram.me/{{ site.telegram }}">Telegram</a> channel or our <a href="https://www.facebook.com/groups/{{ site.facebook }}">Facebook</a> page
+For more exact details, check our <a href="https://chat.whatsapp.com/{{ site.whatsapp }}">WhatsApp</a> channel or our <a href="https://www.facebook.com/groups/{{ site.facebook }}">Facebook</a> page
 
 Non-beach Pick-ups
 ===
