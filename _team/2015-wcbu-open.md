@@ -3,7 +3,7 @@ layout: sg_team
 division: Open
 place: "13th of 16"
 spirit: "5th of 16"
-permalink: /team/2016-wcbu-open/
+permalink: /team/2015-wcbu-open/
 title: "WCBU 2015: Singapore Open"
 date: "2015-03"
 start_date: "2015-03-08"

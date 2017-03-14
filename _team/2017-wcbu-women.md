@@ -1,6 +1,6 @@
 ---
 layout: sg_team
-division: Open
+division: Women
 place: "-"
 spirit: "-"
 permalink: /team/2017-wcbu-women/
