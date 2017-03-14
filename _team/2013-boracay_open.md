@@ -7,6 +7,7 @@ place: "3rd pool B (11 of 24)"
 date: "2013"
 tournament_page: ""
 image: ""
+description:"Singapore team Appendix at Boracay Open 2013"
 ---
 
 # Roster

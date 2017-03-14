@@ -7,6 +7,7 @@ place: ""
 date: "2014"
 tournament_page: ""
 image: ""
+description:"Singapore team Appendix at Boracay Open 2014"
 ---
 
 # Roster

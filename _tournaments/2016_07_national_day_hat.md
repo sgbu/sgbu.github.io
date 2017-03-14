@@ -5,6 +5,7 @@ title: "National Day Hat 2016"
 date: "09/07/16"
 image:
 tournament_page: "https://goo.gl/IQ9DCq"
+description:"Singapore Beach ultimate hat tournament - National Day 2016"
 ---
 
 Registration is now [open](https://goo.gl/IQ9DCq).

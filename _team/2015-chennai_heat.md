@@ -9,6 +9,7 @@ start_date: "2015-10-02"
 end_date: "2015-10-04"
 tournament_page: ""
 image: ""
+description:"Singapore team Skettos at Chennai Heat 2015"
 ---
 
 # Roster
