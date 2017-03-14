@@ -21,13 +21,6 @@ permalink: /teams/
     {% endfor %}
 </table>
 
-## Singapore WCBU 2015 Open 
-
-* **Year:** 2014&mdash;2015
-* **Division:** Open
-* **Goal:** Participate at [WCBU 2015](http://www.wcbu2015.org) in Dubai
-* **Link:** [Ultimate Central](http://ultimatecentral.com/t/singapore-open-wcbu2015)
-
 # Club Teams
 
 <table>
