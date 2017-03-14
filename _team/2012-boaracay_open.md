@@ -6,7 +6,7 @@ title: "Boracay Open 2012"
 place: "3rd pool B (11 of 24)"
 date: "2012"
 tournament_page: ""
-photo: ""
+image: ""
 ---
 
 # Roster

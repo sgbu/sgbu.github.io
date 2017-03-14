@@ -9,7 +9,7 @@ date: "2015-03"
 start_date: "2015-03-08"
 end_date: "2015-03-13"
 tournament_page: "http://www.wcbu2015.org"
-photo: "assets/singapore_wcbu_2015.jpg"
+image: "assets/singapore_wcbu_2015.jpg"
 ---
 
 # Roster

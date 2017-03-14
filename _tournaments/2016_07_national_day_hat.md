@@ -3,7 +3,7 @@ layout: tournament
 permalink: /tournament/national_day_hat_2016/
 title: "National Day Hat 2016"
 date: "09/07/16"
-photo:
+image:
 tournament_page: "https://goo.gl/IQ9DCq"
 ---
 

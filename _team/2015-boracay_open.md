@@ -8,7 +8,7 @@ date: "2015-01"
 start_date: "2015-01-30"
 end_date: "2015-02-01"
 tournament_page: ""
-photo: ""
+image: ""
 ---
 
 # Roster

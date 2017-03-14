@@ -3,7 +3,7 @@ layout: tournament
 permalink: /team/beach_hat_2017/
 title: "March Beach Hat 2017"
 date: "19/03/17"
-photo: ""
+image: ""
 tournament_page: "http://singaporeultimate.com/e/w-beach-hat-2017"
 ---
 

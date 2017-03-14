@@ -3,7 +3,7 @@ layout: tournament
 permalink: /tournament/good_friday_hat_2016/
 title: "Good Friday Hat 2016"
 date: "25/03/16"
-photo: "assets/good_friday_hat_2016.jpg"
+image: "assets/good_friday_hat_2016.jpg"
 tournament_page: "https://www.facebook.com/kobegoh/posts/10154112780736450"
 ---
 

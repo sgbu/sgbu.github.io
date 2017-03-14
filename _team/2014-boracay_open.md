@@ -6,7 +6,7 @@ title: "Boracay Open 2014"
 place: ""
 date: "2014"
 tournament_page: ""
-photo: ""
+image: ""
 ---
 
 # Roster
