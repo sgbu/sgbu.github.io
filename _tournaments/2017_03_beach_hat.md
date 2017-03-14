@@ -1,11 +1,11 @@
 ---
 layout: tournament
-permalink: /team/beach_hat_2017/
+permalink: /tournaments/beach_hat_2017/
 title: "March Beach Hat 2017"
 date: "19/03/17"
 image: ""
 tournament_page: "http://singaporeultimate.com/e/w-beach-hat-2017"
-description:"Singapore Beach ultimate hat tournament - March 2016. Organized by national women's team as fundraising and showcase event
+description: "Singapore Beach ultimate hat tournament - March 2016. Organized by national women's team as fundraising and showcase event
 for WCBU 2017"
 ---
 

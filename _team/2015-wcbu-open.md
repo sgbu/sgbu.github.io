@@ -3,14 +3,14 @@ layout: sg_team
 division: Open
 place: "13th of 16"
 spirit: "5th of 16"
-permalink: /team/2015-wcbu-open/
+permalink: /teams/2015-wcbu-open/
 title: "WCBU 2015: Singapore Open"
 date: "2015-03"
 start_date: "2015-03-08"
 end_date: "2015-03-13"
 tournament_page: "http://www.wcbu2015.org"
-image: "assets/singapore_wcbu_2015.jpg
-description:"Singapore National Open team at WCBU 2015"
+image: "assets/singapore_wcbu_2015.jpg"
+description: "Singapore National Open team at WCBU 2015"
 ---
 
 # Roster

@@ -1,11 +1,11 @@
 ---
 layout: tournament
-permalink: /tournament/national_day_hat_2016/
+permalink: /tournaments/national_day_hat_2016/
 title: "National Day Hat 2016"
 date: "09/07/16"
 image:
 tournament_page: "https://goo.gl/IQ9DCq"
-description:"Singapore Beach ultimate hat tournament - National Day 2016"
+description: "Singapore Beach ultimate hat tournament - National Day 2016"
 ---
 
 Registration is now [open](https://goo.gl/IQ9DCq).

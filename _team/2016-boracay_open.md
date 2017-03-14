@@ -1,7 +1,7 @@
 ---
 layout: team
 team: Appendix
-permalink: /team/boracay2016/
+permalink: /teams/boracay2016/
 title: "Boracay Open 2016"
 place: "6th pool C (22 of 32)"
 date: "2016-04"
@@ -9,7 +9,7 @@ start_date: "2016-04-15"
 end_date: "2016-04-17"
 tournament_page: "https://www.fb.me/boracayopen2015/"
 image: "assets/appendix_boracay_2016.jpg"
-description:"Singapore team Appendix at Boracay Open 2016"
+description: "Singapore team Appendix at Boracay Open 2016"
 ---
 
 # Roster

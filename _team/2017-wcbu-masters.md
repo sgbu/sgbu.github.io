@@ -3,14 +3,14 @@ layout: sg_team
 division: Open
 place: "-"
 spirit: "-"
-permalink: /team/2017-wcbu-masters/
+permalink: /teams/2017-wcbu-masters/
 title: "WCBU 2017: Singapore Open Masters"
 date: "2017-06"
 start_date: "2017-06-18"
 end_date: "2015-06-24"
 tournament_page: "http://wcbu2017.org/"
 image: ""
-description:"Singapore National Open Masters team at WCBU 2017"
+description: "Singapore National Open Masters team at WCBU 2017"
 ---
 
 # Roster

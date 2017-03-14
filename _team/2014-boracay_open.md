@@ -1,13 +1,13 @@
 ---
 layout: team
 team: Appendix
-permalink: /team/boracay2014/
+permalink: /teams/boracay2014/
 title: "Boracay Open 2014"
 place: ""
 date: "2014"
 tournament_page: ""
 image: ""
-description:"Singapore team Appendix at Boracay Open 2014"
+description: "Singapore team Appendix at Boracay Open 2014"
 ---
 
 # Roster

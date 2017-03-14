@@ -1,7 +1,7 @@
 ---
 layout: team
 team: Skettos
-permalink: /team/chennai2015/
+permalink: /teams/chennai2015/
 title: "Chennai Heat 2015"
 place: "3rd pool A (3 of 16)"
 date: "2015-10"
@@ -9,7 +9,7 @@ start_date: "2015-10-02"
 end_date: "2015-10-04"
 tournament_page: ""
 image: ""
-description:"Singapore team Skettos at Chennai Heat 2015"
+description: "Singapore team Skettos at Chennai Heat 2015"
 ---
 
 # Roster

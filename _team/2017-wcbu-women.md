@@ -3,14 +3,14 @@ layout: sg_team
 division: Women
 place: "-"
 spirit: "-"
-permalink: /team/2017-wcbu-women/
+permalink: /teams/2017-wcbu-women/
 title: "WCBU 2017: Singapore Women"
 date: "2017-06"
 start_date: "2017-06-18"
 end_date: "2015-06-24"
 tournament_page: "http://wcbu2017.org/"
 image: ""
-description:"Singapore National Women's team at WCBU 2017"
+description: "Singapore National Women's team at WCBU 2017"
 ---
 
 # Roster
