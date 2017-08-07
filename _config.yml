@@ -16,7 +16,6 @@ url: "http://sgbu.org" # the base hostname & protocol for your site
 include: ["_pages", "_team", "_tournaments"]
 
 github_username:  sgbu
-telegram:   SGBeachUltimate
 facebook:   156245137744553
 whatsapp:   2g3tLPtrfsnFUsvnmphMvs
 
