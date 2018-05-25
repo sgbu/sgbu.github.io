@@ -30,6 +30,6 @@ keywords: Singapore,beach,ultimate,frisbee,pick-up,Appendix,ultimate frisbee,
 author: Singapore Beach Ultimate
 
 #
-gems:
+plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
