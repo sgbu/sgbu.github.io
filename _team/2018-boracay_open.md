@@ -14,7 +14,7 @@ description: "Singapore team Appendix at Boracay Open 2018"
 # Roster
 
 * Women
-    1. Ulrike Bornheimer #14
+    1. Ulrike Bornheimer #14 (C)
 	2. Joyce Naomi Ho #27
 	3. Kyna Leong #29
 * Men
