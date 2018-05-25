@@ -12,7 +12,7 @@ layout: default
         <li><b>Tournament site:</b> <a href={{ page.tournament_page }}>{{ page.tournament_page }}</a></li>
     {% endif %}
     {% if page.date %}
-        <li><b>Dates:</b> {{ page.date }}</li>
+        <li><b>Dates:</b> {{ page.date | date: "%Y" }}</li>
     {% endif %}
     {% if page.place %}
         <li><b>Final standing:</b> {{ page.place }}</li>

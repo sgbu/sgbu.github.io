@@ -4,7 +4,7 @@ team: Appendix
 permalink: /teams/boracay2012/
 title: "Boracay Open 2012"
 place: "3rd pool B (11 of 24)"
-date: "2012"
+date: "2012-01-01"
 tournament_page: ""
 image: ""
 description: "Singapore team Appendix at Boracay Open 2012"

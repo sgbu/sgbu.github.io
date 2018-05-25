@@ -4,7 +4,7 @@ team: Appendix
 permalink: /teams/boracay2014/
 title: "Boracay Open 2014"
 place: ""
-date: "2014"
+date: "2014-01-01"
 tournament_page: ""
 image: ""
 description: "Singapore team Appendix at Boracay Open 2014"

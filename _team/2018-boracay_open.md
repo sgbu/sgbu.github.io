@@ -4,7 +4,7 @@ team: Appendix
 permalink: /teams/boracay2018/
 title: "Boracay Open 2018"
 place: "8th pool B (16 of 24)"
-date: "2018-05"
+date: "2018-05-01"
 start_date: "2018-05-11"
 end_date: "2018-05-13"
 tournament_page: "https://www.fb.me/boracayopen2015/"

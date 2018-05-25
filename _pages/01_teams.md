@@ -11,7 +11,7 @@ permalink: /teams/
     {% for page in site.pages reversed %}
           {% if page.layout == "sg_team" %}
           <tr>
-              <td>{{page.date}}</td>
+              <td>{{ page.date | date: "%Y" }}</td>
               <td><a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a></td>
               <td>{{page.division}}</td>
               <td>{{page.place}}</td>
@@ -28,7 +28,7 @@ permalink: /teams/
     {% for page in site.pages reversed %}
           {% if page.layout == "team" %}
           <tr>
-              <td>{{page.date}}</td>
+              <td>{{ page.date | date: "%Y" }}</td>
               <td><a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a></td>
               <td>{{page.team}}</td>
               <td>{{page.place}}</td>

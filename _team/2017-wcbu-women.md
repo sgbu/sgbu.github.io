@@ -5,7 +5,7 @@ place: "-"
 spirit: "-"
 permalink: /teams/2017-wcbu-women/
 title: "WCBU 2017: Singapore Women"
-date: "2017-06"
+date: "2017-06-01"
 start_date: "2017-06-18"
 end_date: "2015-06-24"
 tournament_page: "http://wcbu2017.org/"
